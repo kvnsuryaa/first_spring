@@ -1,0 +1,5 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/java_learn
+    username: postgres
+    password: ju4l10
